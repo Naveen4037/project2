@@ -1,5 +1,5 @@
-# new project 
+# New project 
 
 This project was created from local system.
 
-created by naveen pegwal.
+created by Naveen pegwal.
